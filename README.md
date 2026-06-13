@@ -1,4 +1,4 @@
-## 2. Calculator
+## Calculator
 
 ### Features
 - Addition, subtraction, multiplication, division
