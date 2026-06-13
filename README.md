@@ -11,4 +11,4 @@
 
 
 ## Live Demo
-🔗 https://edlaabhishek.github.io/CodeAlpha_Image-Gallery/
+🔗 https://edlaabhishek.github.ioCodeAlpha_Build-a-Calculator/
