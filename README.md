@@ -10,3 +10,5 @@
 ![Calculator](Task2_Screenshot.jpg)
 
 
+## Live Demo
+🔗 https://edlaabhishek.github.io/CodeAlpha_Image-Gallery/
